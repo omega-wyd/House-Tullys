@@ -24,8 +24,8 @@
 # how the script is suppose to be used.
 usage()
 {
-	echo "Invalid Option"
-	echo "Usage: $0 [-a awk file] [-s sed file ] [-i file]"
+	echo "Missing Arguments"
+	echo "Usage: ./$0 [-a awksrc] [-s sedsrc] [-i inputFile]"
 	echo " -a -s -i are required."
 	exit 1
 }
