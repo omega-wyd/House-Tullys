@@ -25,8 +25,8 @@
 usage()
 {
 	echo "Invalid Option"
-	echo "Usage: $0 [-c holder] [-f holder]"
-	echo " -c -f are required."
+	echo "Usage: $0 [-a awk file] [-s sed file ] [-i file]"
+	echo " -a -s -i are required."
 	exit 1
 }
 
@@ -38,12 +38,14 @@ fi
 
 
 # Getopts while loop
-while getops ":c:f:" opt
+while getopts ":a:s:i:" opt
 do 
 	case $opt in
-		c) holder=$OPTARG #first opt
+		a) AWK=$OPTARG #awk file to be used
 			;;
-		f) holder=$OPTARG #second opt
+		s) SED=$OPTARG #sed file to be used
+			;;
+		i) file=$OPTARG # file the user wants to change
 			;;
 		/?)
 			usage
@@ -53,10 +55,14 @@ done
 
 
 #IF statement to test if parameters are set.
-if [[ -c $holder ]] || [[ -f $holder ]]
+if [[ -z $AWK ]] || [[ -z $SED ]] || [[ -z $file ]]
 then 
 	usage
 fi
+
+
+
+
 
 
 
