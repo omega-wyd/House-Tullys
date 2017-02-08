@@ -61,6 +61,13 @@ then
 fi
 
 
+#calling sed
+sed -f $SED $file |
+# piping and calling awk file then redirecing output to file
+awk -f $AWK > 20CenturyPresidents.txt
+# letting user know where it will be saved.
+echo "Your output file will be saved in the 20CenturyPresidents.txt file"
+
 
 
 
