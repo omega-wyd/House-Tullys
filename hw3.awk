@@ -4,11 +4,14 @@
 # $5 is the left office
 
 
-
 BEGIN{FS="," } #comma delimiter
 {
-	stDate=$4
-}
+# print $4;  
+match($4, /[0-9]{4}/, arr);
+#print arr[0];
 
+if (arr[0] >= 1900)
+	print arr[0]
+}
 
 
