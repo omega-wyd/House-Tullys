@@ -5,14 +5,14 @@
 # 
 #         USAGE: ./House_Tullys_hw3.sh 
 # 
-#   DESCRIPTION: 
+#   DESCRIPTION: Homework assignment 3 passing sed and awk
 # 
-#       OPTIONS: ---
-#  REQUIREMENTS: ---
+#       OPTIONS: -a -s -i
+#  REQUIREMENTS: -a -s -i
 #          BUGS: ---
 #         NOTES: ---
 #        AUTHOR: Micheal Brewer (), mbrewerramirez@mail.weber.edu
-#				 Jeremy Johnson , 
+#				 Jeremy Johnson , jeremyjohnson7@mail.weber.edu
 #  ORGANIZATION: 
 #       CREATED: 02/07/2017 15:51
 #      REVISION:  ---
@@ -21,7 +21,7 @@
 #set -o nounset                  # Treat unset variables as an error
 
 
-# how the script is suppose to be used.
+# how the script is supposed to be used.
 usage()
 {
 	echo "Missing Arguments"
@@ -47,7 +47,7 @@ do
 			;;
 		i) file=$OPTARG # file the user wants to change
 			;;
-		/?)
+		\?)
 			usage
 			;;
 	esac
