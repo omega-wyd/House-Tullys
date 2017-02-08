@@ -1,0 +1,109 @@
+commit 31a067be5c637cae9e5f2febb3d4c2a83595b75c
+Author: Micheal Brewer <mbrewerramirez@mail.weber.edu>
+Date:   Tue Feb 7 19:26:53 2017 -0700
+
+    calls sed and awk file
+
+commit 3a8ad24b8e822afabb4aaee8546b6b3568fd48b9
+Author: Micheal Brewer <mbrewerramirez@mail.weber.edu>
+Date:   Tue Feb 7 19:26:31 2017 -0700
+
+    prints out end goal
+
+commit adb68eac6071e23d2c893980772e15006ef726dd
+Author: Micheal Brewer <mbrewerramirez@mail.weber.edu>
+Date:   Tue Feb 7 18:56:54 2017 -0700
+
+    filters and shows years >= 1900
+
+commit e0b715f2e02af1e01e4aa008c98614e929a92bb3
+Author: Jeremy Johnson <jeremyjohnson7@mail.weber.edu>
+Date:   Tue Feb 7 18:37:19 2017 -0700
+
+    Isolated year
+
+commit b9134c30e17a85315a0759a798edd2b7bb6b6382
+Author: Jeremy Johnson <jeremyjohnson7@mail.weber.edu>
+Date:   Tue Feb 7 18:13:19 2017 -0700
+
+    Added comment to regex
+
+commit aac9ca7d3268f324576bda0947ebd93d39a6dfc2
+Merge: d7b2959 4993f2e
+Author: Micheal Brewer <mbrewerramirez@mail.weber.edu>
+Date:   Tue Feb 7 18:07:36 2017 -0700
+
+    Merge branch 'master' of https://github.com/omega-wyd/House-Tullys
+
+commit d7b2959f4685840c0c140c1ca9372da2c7d19ef9
+Author: Micheal Brewer <mbrewerramirez@mail.weber.edu>
+Date:   Tue Feb 7 18:06:53 2017 -0700
+
+    entered forst FS and saved as stDate
+
+commit 4993f2e579f1db954d62d7658026a6fda36472e9
+Author: Jeremy Johnson <jeremyjohnson7@mail.weber.edu>
+Date:   Tue Feb 7 18:01:39 2017 -0700
+
+    Removed old line
+
+commit 9e38bb6917f958e06bf0d9e903925ce8a3460032
+Merge: b5f1b56 fd1f0dd
+Author: Jeremy Johnson <jeremyjohnson7@mail.weber.edu>
+Date:   Tue Feb 7 17:57:06 2017 -0700
+
+    Merge branch 'master' of https://github.com/omega-wyd/House-Tullys
+
+commit b5f1b56136ba9f181fa3e641e88e3bef74b85ad4
+Author: Jeremy Johnson <jeremyjohnson7@mail.weber.edu>
+Date:   Tue Feb 7 17:56:30 2017 -0700
+
+    Fixed sed replacement of / with .
+
+commit fd1f0dda20fa5bee47ef22a819bf97edba7c3006
+Author: Micheal Brewer <mbrewerramirez@mail.weber.edu>
+Date:   Tue Feb 7 17:13:34 2017 -0700
+
+    description of the asignment
+
+commit 77744c411d1c4e8e11251619d3a0b282fddce85a
+Author: Micheal Brewer <mbrewerramirez@mail.weber.edu>
+Date:   Tue Feb 7 16:08:54 2017 -0700
+
+    corrected naming scheme for usage output
+
+commit 9843f345e6b292f43bb56c33d40e930775043576
+Author: Micheal Brewer <mbrewerramirez@mail.weber.edu>
+Date:   Tue Feb 7 16:03:05 2017 -0700
+
+    usage and getopts added
+
+commit a07a37eca4c7c0f535039baaf5e764be5f65e9e5
+Author: Micheal Brewer <mbrewerramirez@mail.weber.edu>
+Date:   Tue Feb 7 15:53:11 2017 -0700
+
+    started sh file
+
+commit bcf46ce6e05ae304e3ab7e69e1e3c24197954f4d
+Author: Micheal Brewer <mbrewerramirez@mail.weber.edu>
+Date:   Tue Feb 7 15:40:53 2017 -0700
+
+    started awk
+
+commit 292b0273baf54a3c7dbf308acb96c75864ab77dc
+Author: Micheal Brewer <mbrewerramirez@mail.weber.edu>
+Date:   Tue Feb 7 15:37:16 2017 -0700
+
+    started sed file
+
+commit 1d1d819b1d071b7c95676fb2c634dbeff7070277
+Author: Micheal Brewer <mbrewerramirez@mail.weber.edu>
+Date:   Tue Feb 7 14:32:24 2017 -0700
+
+    downloaded pres file
+
+commit e1966d9fb35fe71ad7dd3885329454a366f65083
+Author: Micheal Brewer <mbrewerramirez@mail.weber.edu>
+Date:   Tue Feb 7 14:23:52 2017 -0700
+
+    Initial commit
