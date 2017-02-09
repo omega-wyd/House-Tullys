@@ -11,7 +11,7 @@ The purpose of these scripts is to pull the file `presidents.csv` and sort out w
 `House_Tullys_hw3.sh` combines the `.sed` and `.awk` files.
 
 ```bash
-    $ bash House_Tullys_hw3.sh -a House_Tullys_hw3.awk -s House_Tullys_hw3.sed -i presidents.csv
+$ bash House_Tullys_hw3.sh -a House_Tullys_hw3.awk -s House_Tullys_hw3.sed -i presidents.csv
 ```
 
 ## What each file does
