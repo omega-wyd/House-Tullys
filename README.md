@@ -2,7 +2,7 @@
 
 Homework Assignment 3 Group Project  
 Authors: [Micheal Brewer](https://github.com/omega-wyd) and [Jeremy Johnson](https://github.com/jeremyjohnson7)  
-CS 3030 &ndash; [Hugo Valle](https://github.com/hugo-valle)
+CS 3030 &ndash; Hugo Valle
 
 The purpose of these scripts is to pull the file `presidents.csv` and sort out what presidents served during or after the 1900s, displaying their names and the start and end dates of their presidencies. 
 
