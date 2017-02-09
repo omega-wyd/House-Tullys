@@ -1,8 +1,8 @@
 # House Tullys
 
-Homework Assignment 3 Group Project - House Tullys  
+Homework Assignment 3 Group Project
 Authors: Micheal Brewer and Jeremy Johnson  
-CS 3030 - Hugo Valle
+CS 3030 &ndash; Hugo Valle
 
 The purpose of these scripts is to pull the file `presidents.csv` and sort out what presidents served during or after the 1900s, displaying their names and the start and end dates of their presidencies. 
 
@@ -14,7 +14,7 @@ The purpose of these scripts is to pull the file `presidents.csv` and sort out w
 
 ## What each file does
 
-- The `.sh` file will call the `.sed` and `.awk` and `.csv` file. 
+- The `.sh` file will call the `.sed` file with the `.csv` file as input. It will then use the ouput from `sed` as input to the `.awk` file. The output will be stored in `20CenturyPresidents.txt`.
 
 - The `.sed` file changes the format of the `.csv` file by replacing the `/` with `.` in the dates. 
 
