@@ -1,4 +1,4 @@
-#! bin/awk
+#!bin/awk
 
 # note $4 is the took office
 # $5 is the left office
