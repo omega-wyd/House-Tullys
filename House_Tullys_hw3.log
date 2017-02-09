@@ -1,3 +1,82 @@
+commit 462088a1588a4c4af1ea43ef4ae354c65787418b
+Author: Jeremy Johnson <jeremyjohnson7@mail.weber.edu>
+Date:   Thu Feb 9 13:55:56 2017 -0700
+
+    Readme
+
+commit 800b14c3650d7ec38deeb2fee055b33a78ba3ae1
+Author: Jeremy Johnson <jeremyjohnson7@mail.weber.edu>
+Date:   Thu Feb 9 13:54:40 2017 -0700
+
+    Readme
+
+commit c503b8de48488ac8ae497824c7d4bf0d65067f4a
+Author: Jeremy Johnson <jeremyjohnson7@mail.weber.edu>
+Date:   Thu Feb 9 13:53:41 2017 -0700
+
+    Readme
+
+commit 46c94317ba873ef02921953d17b1826ef041b283
+Author: Jeremy Johnson <jeremyjohnson7@mail.weber.edu>
+Date:   Thu Feb 9 13:51:40 2017 -0700
+
+    Readme
+
+commit 701e7611dbcb68f15c2a4959002bb4db7204d111
+Author: Jeremy Johnson <jeremyjohnson7@mail.weber.edu>
+Date:   Thu Feb 9 13:45:08 2017 -0700
+
+    Readme
+
+commit b6f65a9430e10919a0266a6ad2cb7921eae653a0
+Author: Jeremy Johnson <jeremyjohnson7@mail.weber.edu>
+Date:   Thu Feb 9 13:41:33 2017 -0700
+
+    Formatted readme
+
+commit 2d84651ed2950f5810e3e158f0e66892bad3a0ac
+Author: Jeremy Johnson <jeremyjohnson7@mail.weber.edu>
+Date:   Thu Feb 9 13:38:11 2017 -0700
+
+    Formatted readme
+
+commit f6176aae13a92e398aad19c5d278c31ab54e06eb
+Author: Jeremy Johnson <jeremyjohnson7@mail.weber.edu>
+Date:   Thu Feb 9 13:24:55 2017 -0700
+
+    Edited readme
+
+commit 5718b12881fd7be56e65535377e4011d810a989c
+Author: Micheal Brewer <mbrewerramirez@mail.weber.edu>
+Date:   Thu Feb 9 13:18:45 2017 -0700
+
+    formatted
+
+commit ca970249ce9eae15c33d74f905a0edc16aa3ce4d
+Merge: 7676631 de7cf87
+Author: Micheal Brewer <mbrewerramirez@mail.weber.edu>
+Date:   Thu Feb 9 13:15:02 2017 -0700
+
+    Merge branch 'master' of https://github.com/omega-wyd/House-Tullys
+
+commit de7cf872555206f37c5df0554db19306364f08d4
+Author: Jeremy Johnson <jeremyjohnson7@mail.weber.edu>
+Date:   Thu Feb 9 13:13:48 2017 -0700
+
+    Updated tar
+
+commit 7676631e73cd6d163e1c202954b6454c38ce4dea
+Author: Micheal Brewer <mbrewerramirez@mail.weber.edu>
+Date:   Thu Feb 9 13:13:19 2017 -0700
+
+     edited the file to explain what each file does.
+
+commit 115f0b5c21ffe7809b84634c1b0179528e8fd0df
+Author: Jeremy Johnson <jeremyjohnson7@mail.weber.edu>
+Date:   Thu Feb 9 13:07:27 2017 -0700
+
+    Updated log file
+
 commit 97ec0ba265353bb130cd13ea1ed71e237062c4d4
 Author: Jeremy Johnson <jeremyjohnson7@mail.weber.edu>
 Date:   Thu Feb 9 13:05:34 2017 -0700
