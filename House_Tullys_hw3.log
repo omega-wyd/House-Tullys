@@ -1,3 +1,15 @@
+commit 97ec0ba265353bb130cd13ea1ed71e237062c4d4
+Author: Jeremy Johnson <jeremyjohnson7@mail.weber.edu>
+Date:   Thu Feb 9 13:05:34 2017 -0700
+
+    Fixed sed script to only replace / with . in dates
+
+commit 3cc8db0f3f2240023a3af3c354bc59cd2a60c21e
+Author: Micheal Brewer <mbrewerramirez@mail.weber.edu>
+Date:   Tue Feb 7 19:47:40 2017 -0700
+
+    updated log
+
 commit 0c2f2506a06ad7c7895026ab1a1d4a1bab92f826
 Author: Micheal Brewer <mbrewerramirez@mail.weber.edu>
 Date:   Tue Feb 7 19:46:04 2017 -0700
