@@ -25,7 +25,7 @@
 usage()
 {
 	echo "Missing Arguments"
-	echo "Usage: ./$0 [-a awksrc] [-s sedsrc] [-i inputFile]"
+	echo "Usage: $0 -a <awksrc> -s <sedsrc> -i <inputFile>"
 	echo " -a -s -i are required."
 	exit 1
 }
@@ -67,12 +67,6 @@ sed -rf $SED $file |
 awk -f $AWK > 20CenturyPresidents.txt
 # letting user know where it will be saved.
 echo "Your output file will be saved in the 20CenturyPresidents.txt file"
-
-
-
-
-
-
 
 
 exit 0
