@@ -62,7 +62,7 @@ fi
 
 
 #calling sed
-sed -f $SED $file |
+sed -rf $SED $file |
 # piping and calling awk file then redirecing output to file
 awk -f $AWK > 20CenturyPresidents.txt
 # letting user know where it will be saved.
