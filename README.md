@@ -1,6 +1,6 @@
 # House Tullys
 
-Homework Assignment 3 Group Project
+Homework Assignment 3 Group Project  
 Authors: Micheal Brewer and Jeremy Johnson  
 CS 3030 &ndash; Hugo Valle
 
@@ -10,7 +10,9 @@ The purpose of these scripts is to pull the file `presidents.csv` and sort out w
 
 `House_Tullys_hw3.sh` combines the `.sed` and `.awk` files.
 
-     $ bash House_Tullys_hw3.sh -a House_Tullys_hw3.awk -s House_Tullys_hw3.sed -i president.csv
+```bash
+    $ bash House_Tullys_hw3.sh -a House_Tullys_hw3.awk -s House_Tullys_hw3.sed -i president.csv
+```
 
 ## What each file does
 
